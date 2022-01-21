@@ -1,0 +1,13 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!221 &22100000
+AnimatorOverrideController:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Attack_A1_Spear_MeleeTrailEfx_OverrideAnimController
+  m_Controller: {fileID: 9100000, guid: 73af16c44e1b8d14daf7f964ad42a792, type: 2}
+  m_Clips:
+  - m_OriginalClip: {fileID: 7400000, guid: a2b0b3480612ae940936c912caae6ba0, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 4056ca97788093847b81a2e2a4d99b84, type: 2}
