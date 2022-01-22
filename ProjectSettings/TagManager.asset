@@ -11,18 +11,18 @@ TagManager:
   - Ground
   - Water
   - UI
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
+  - NPC
+  - Item
+  - Ladder
+  - Box
+  - EnemyForRanged
+  - EnemyHeadForRanged
+  - Player
+  - EnemyForMelee
+  - Target
+  - EnemyWall
+  - Enemy
+  - Door
   - 
   - 
   - 
